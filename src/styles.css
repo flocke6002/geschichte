@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  background-color: dimgray;
+  color: white;
+}
+
+p {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+h1 {
+  padding-left: 1rem;
+}
+
+div {
+  background-color: #424242;
+  color: white;
+  padding-top: 10rem;
+  padding-bottom: 50rem;
+  margin-left: 20rem;
+  margin-right: 25rem;
+}
